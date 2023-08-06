@@ -4,7 +4,7 @@
 				local Workspace = game:GetService("Workspace")
 				
 				--// importing the textures
-				local objs = game:GetObjects("rbxassetid://13783192680")
+				local objs = game:GetObjects("rbxassetid://13801509384")
 				local import = objs[1]
 				
 				import.Parent = game:GetService("ReplicatedStorage")
@@ -40,6 +40,12 @@
 						name = "emerald_sword",
 						offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(-90)),
 						model = import:WaitForChild("Emerald_Sword"),
+					},
+					
+					{
+						name = "rageblade",
+						offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(-270)),
+						model = import:WaitForChild("Rageblade"),
 					},
 					
 					
@@ -97,7 +103,7 @@
 							weld2.Part1 = tool2:WaitForChild("Handle")
 						
 						end
-					
+
 					end
-					
+
 				end)
