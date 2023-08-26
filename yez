@@ -1,7 +1,7 @@
 {
-  "Sigma Male": {
+  "HIM": {
     "users": ["4931458391", "#00008b", "#00008b"],
-    "color": "#FFD700" 
+    "color": "#daa520" 
   },
   "Sigma Dev": {
     "users": ["UserID"],
