@@ -1,9 +1,9 @@
 {
   "Sigma Male": {
     "users": ["4931458391", "#00008b", "#00008b"],
-    "color": "#FFFFFF" 
+    "color": "#FFD700" 
   },
-  "Jello Dev": {
+  "Sigma Dev": {
     "users": ["UserID"],
     "color": "00008b" 
   },
@@ -19,11 +19,11 @@
     "users": ["UserID"],
     "color": "#FFC0CB" 
   },
-  "Jello Private User": {
+  "Sigma Private User": {
     "users": ["UserID", "UserID", "UserID", "UserID", "UserID", "UserID", "UserID", "UserID"],
     "color": "#FF7800" 
   },
-  "Jello Mod": {
+  "Sigma Mod": {
     "users": ["UserID", "UserID", "UserID", "UserID"],
     "color": "#FF7800" 
   },
