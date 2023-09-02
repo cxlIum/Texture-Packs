@@ -30,11 +30,11 @@
 						offset = CFrame.Angles(math.rad(0), math.rad(-89), math.rad(-90)),
 						model = import:WaitForChild("Emerald_Sword"),
 					},
-          {
-                        name = "rageblade",
-                        offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(90)),
-                        model = import:WaitForChild("Rageblade"),
-          },
+                                        {
+                                                name = "rageblade",
+                                                offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(90)),
+                                                model = import:WaitForChild("Rageblade"),
+                                        },
 					{
 						name = "wood_pickaxe",
 						offset = CFrame.Angles(math.rad(0), math.rad(-180), math.rad(-95)),
